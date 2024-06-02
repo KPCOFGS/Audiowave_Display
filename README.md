@@ -6,7 +6,8 @@ A simple script that will display audiowave for an audio/video file at a custom 
 
 You can download the script using `git`
 ```bash
-
+git clone https://github.com/KPCOFGS/Audiowave_Display.git
+cd Audiowave_Display
 ```
 You can install the dependencies using pip:
 ```bash
